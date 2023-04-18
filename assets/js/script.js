@@ -15,6 +15,10 @@ function table(datos){
     }
 }
 
+function capturaDato(){
+    digibite
+}
+
 $(document).ready(function(){
     contenido = document.getElementById("contenido");
     
