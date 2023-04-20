@@ -1,2 +1,2 @@
-# mi_portafolio
-Primer portafolio
+# proyecto_digimon
+Proyecto de segunda sesion
