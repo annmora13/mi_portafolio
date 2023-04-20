@@ -1,5 +1,5 @@
 Aquí está la url del repositorio
-https://github.com/annmora13/mi_portafolio
+https://github.com/annmora13/proyecto_digimon
 
 Para clonar sería 
-git clone https://github.com/annmora13/mi_portafolio.git
+git clone https://github.com/annmora13/proyecto_digimon.git
